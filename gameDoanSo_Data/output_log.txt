@@ -1,0 +1,63 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     627 MB
+    Driver:   9.17.10.3062
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Administrator\Desktop\Code Files\Unity\TestProject\Test\gameDoanSo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\Code Files\Unity\TestProject\Test\gameDoanSo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\Code Files\Unity\TestProject\Test\gameDoanSo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\Code Files\Unity\TestProject\Test\gameDoanSo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\Code Files\Unity\TestProject\Test\gameDoanSo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\Code Files\Unity\TestProject\Test\gameDoanSo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\Code Files\Unity\TestProject\Test\gameDoanSo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\Code Files\Unity\TestProject\Test\gameDoanSo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\Code Files\Unity\TestProject\Test\gameDoanSo_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\Code Files\Unity\TestProject\Test\gameDoanSo_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.198 seconds
+Platform assembly: C:\Users\Administrator\Desktop\Code Files\Unity\TestProject\Test\gameDoanSo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Administrator\Desktop\Code Files\Unity\TestProject\Test\gameDoanSo_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 5.107440 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at LevelManager.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 24.872782 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 300.
+Total: 1.085654 ms (FindLiveObjects: 0.060239 ms CreateObjectMapping: 0.056223 ms MarkObjects: 0.949111 ms  DeleteObjects: 0.016956 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.630043 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 278.
+Total: 0.600166 ms (FindLiveObjects: 0.068717 ms CreateObjectMapping: 0.057562 ms MarkObjects: 0.457822 ms  DeleteObjects: 0.012940 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at LevelManager.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.122691 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 0.628278 ms (FindLiveObjects: 0.049530 ms CreateObjectMapping: 0.054438 ms MarkObjects: 0.509137 ms  DeleteObjects: 0.012940 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at LevelManager.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 824 -> priority: 1 
+  Thread -> id: a98 -> priority: 1 
